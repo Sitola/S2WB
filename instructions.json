@@ -1,0 +1,16 @@
+{
+	"main_script": "webappwrapper.js",
+	"icon": "webapp.webp",
+	"width": 1200,
+	"height": 800,
+	"resize": "free",
+	"animation": false,
+	"dependencies": [
+	],
+	"title": "Web",
+	"version": "1.0.0",
+	"description": "Limited iframe wrapper for web",
+	"keywords": [ "online", "iframe", "webapp", "web" ],
+	"author": "Michal Babel <miso@outlook.sk>",
+	"license": "SAGE2-Software-License"
+}
